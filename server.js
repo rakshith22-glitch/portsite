@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 const port = process.env.PORT || 3000;
-const publicPath = path.join(__dirname, "../PORTFOLIO/public");
+const publicPath = path.join(__dirname, "../portsite/public");
 app.use(express.static(publicPath));
 
 if (process.env.NODE_ENV === "production") {
@@ -21,3 +21,4 @@ app.listen(port, (err) => {
   if (err) return console.log(err);
   console.log("Server is up!", port);
 });
+
