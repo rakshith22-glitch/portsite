@@ -35,13 +35,8 @@ function ResumeNew() {
         </Row>
 
         <Row className="resume">
-          <iframe
-            src="https://onedrive.live.com/embed?cid=B550B3ABBFCDE696&resid=B550B3ABBFCDE696%2197748&authkey=AGqdH0CMlGAqdYI&em=2"
-            width="476"
-            height="1100"
-            frameborder="0"
-            scrolling="no"
-          ></iframe>
+        <iframe src="https://onedrive.live.com/embed?cid=B550B3ABBFCDE696&resid=B550B3ABBFCDE696%21504066&authkey=ABT1QjMtS-mQ9Xg&em=2" 
+        width="500" height="1100" frameborder="0" ></iframe>
         </Row>
 
         <Row style={{ justifyContent: "center", position: "relative" }}>

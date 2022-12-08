@@ -22,19 +22,18 @@ function AboutCard() {
               <ImPointRight /> Play Soccer <i class="cid-soccer"></i>
             </li>
             <li className="about-activity">
-              <ImPointRight /> Read (literally anything, must be self-dev boom
-              though)
+              <ImPointRight /> Read
             </li>
             <li className="about-activity">
               <ImPointRight /> Workout
             </li>
             <li className="about-activity">
-              <ImPointRight /> EAT !!
+              <ImPointRight /> Travel
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Finding purpose in everything and striving for greatness "
+            "Success is the progressive realization of a worthy ideal"
           </p>
           <footer className="blockquote-footer">Rakshith </footer>
         </blockquote>
