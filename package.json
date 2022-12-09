@@ -44,7 +44,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0",
     "react-bootstrap": "^2.7.0"
   }
 }
