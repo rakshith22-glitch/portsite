@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 const port = process.env.PORT || 3000;
-const publicPath = path.join(__dirname, "../portsite/public");
+const publicPath = path.resolve(__dirname, "../portsite/public");
 app.use(express.static(publicPath));
 
 if (process.env.NODE_ENV === "production") {
